@@ -22,4 +22,4 @@ jobs:
     - name: Test app
       shell: bash
       run: |
-        npm run test
+        npm run test 
