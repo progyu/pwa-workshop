@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "storageAccountNames": {
-      "value": "[leeblobdev,leeblobprod]"
+      "value": "[gyuhaworkshopdev,gyuhaworkshopprod]"
     },
     "keyVaultName": {
-      "value": "[leeblobdev]"
+      "value": "[gyuhaworkshop]"
     }
   }
 }
